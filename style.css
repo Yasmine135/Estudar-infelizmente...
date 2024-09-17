@@ -1,0 +1,17 @@
+:root{
+    --caixa-cor-frente: #6959CD;
+    --caixa-cor-verso: #191970;
+    --fundo: #bdf3bd;
+    --preto: #000000;
+    --quase-branco:#FFFFF0;
+    --cor-texte-destaque:#6bade2;
+}
+
+body{
+ background-color: var(--fundo);
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+}
