@@ -14,7 +14,7 @@ body{
 footer{
     position: fixed;
     bottom: 0;
-    background-color: #6bade2;
+    background-color: var(--caixa-cor-verso);
     color: var(--quase-branco);
     width: 100%;
 }
