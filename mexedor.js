@@ -12,7 +12,7 @@ cartao.innerHTML = `
                 <div class = "categoria-pergunta-resposta">
                     <p>${resposta}</p>
                 </div>
-            </div>`
-                
+            </div>
+            `     
      container.appendChild(cartao);
 }
