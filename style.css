@@ -1,7 +1,7 @@
 :root{
     --caixa-cor-frente: #aca1f3;
     --caixa-cor-verso: #191970;
-    --fundo: #cfdee0;
+    --fundo: #666666;
     --preto: #000000;
     --quase-branco:#FFFFF0;
     --cor-texte-destaque:#6bade2;
@@ -35,7 +35,7 @@ footer{
 }
 
 .cartao-conteudo{
-    background-color: var(--caixa-cor-verso);
+    background-color: var(--caixa-cor-frente);
     text-align: center;
     color: var(--quase-branco)
 }
