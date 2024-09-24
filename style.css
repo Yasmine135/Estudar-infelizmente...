@@ -34,7 +34,7 @@ footer{
     flex-basis: cal(33% - 6rem);
 }
 
-.cartao_conteudo{
+.cartao-conteudo{
     background-color: var(--caixa-cor-frente);
     text-align: center;
     color: var(--preto)
