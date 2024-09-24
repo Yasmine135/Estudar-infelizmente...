@@ -55,6 +55,8 @@ footer{
 
 .categoria-pergunta-resposta{
     color: var(--caixa-cor-verso);
+    transform: rotateY('180deg');
+    border: 1px solid var(--quase-branco);
 }
 
 .cartao.active .cartao-conteudo{
