@@ -46,3 +46,9 @@ footer{
     position: absolute;
     margin: 0.5rem;
 }
+
+.cartao-conteudo p{
+    margin-top: 1rem;
+    padding: 2rem;
+    padding-top: 3rem;
+}
