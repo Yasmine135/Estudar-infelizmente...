@@ -95,6 +95,5 @@ criaCartao(
     
     criaCartao(
     'Português',
-    'O que é uma metáfora?',
-    'Metáfora é uma figura de linguagem que estabelece uma comparação implícita entre dois elementos, sem o uso de conectivos como "como" ou "tal qual".')
-    
+    'Quando se usa a "`"?',
+    'Depois e verbo qu pedem a preposição "a", seguido e um substantivo que pede rtigon definido feminino.')
