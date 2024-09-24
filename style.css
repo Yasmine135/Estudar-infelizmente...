@@ -1,7 +1,7 @@
 :root{
     --caixa-cor-frente: #aca1f3;
     --caixa-cor-verso: #191970;
-    --fundo: #9a82ad;
+    --fundo: hsl(193, 29%, 73%);
     --preto: #000000;
     --quase-branco:#FFFFF0;
     --cor-texte-destaque:#6bade2;
