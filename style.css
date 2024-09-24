@@ -52,3 +52,19 @@ footer{
     padding: 2rem;
     padding-top: 3rem;
 }
+
+.categoria-pergunta-resposta{
+    color: var(--caixa-cor-verso);
+}
+
+.cartao.active .cartao-conteudo{
+    transform: rotateY('180deg');
+}
+
+.categoria-pergunta-pergunta, .categoria-pergunta-resposta{
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
